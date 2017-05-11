@@ -3,6 +3,8 @@ layout: post
 title: Akka 2.0 Released!
 author: Viktor Klang
 category: news
+redirect_from: /news/2012/03/06/akka-20-released
+tags: [releases]
 ---
 
 We've just released Akka 2.0 – a revolutionary step in programming for concurrency, fault-tolerance and scalability. Download it <a href="{{ site.baseurl }}/downloads">here</a>.

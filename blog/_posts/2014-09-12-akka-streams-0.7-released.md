@@ -4,6 +4,8 @@ title: Akka Streams &amp; Http 0.7 Released!
 author: Konrad 'ktoso' Malawski
 short: Akka Streams and Http 0.7 Released
 category: news
+redirect_from: /news/2014/09/12/akka-streams-0.7-released
+tags: [releases]
 ---
 
 *Dear hAkkers,*
