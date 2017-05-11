@@ -6,7 +6,7 @@ markdown: kramdown
 # The base URL should only be set if the site is deployed at a subpath
 # See http://ben.balter.com/jekyll-style-guide/config/#baseurl.
 # For devel baseurl: "" is used by passing --baseurl "" to jekyll
-baseurl: ""
+baseurl: "/akka.github.com"
 
 gems:
 - jekyll-redirect-from
